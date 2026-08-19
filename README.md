@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/Stuti1011Sri/DSA_question/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
