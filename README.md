@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Stuti1011Sri/DSA_question/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Stuti1011Sri/DSA_question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0234-palindrome-linked-list) |
 ## Sorting
