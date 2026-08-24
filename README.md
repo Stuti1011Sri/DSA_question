@@ -70,4 +70,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Stuti1011Sri/DSA_question/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
