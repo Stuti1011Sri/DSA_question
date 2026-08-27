@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Stuti1011Sri/DSA_question/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Stuti1011Sri/DSA_question/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/Stuti1011Sri/DSA_question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Stuti1011Sri/DSA_question/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Stuti1011Sri/DSA_question/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
