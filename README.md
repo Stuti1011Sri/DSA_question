@@ -32,6 +32,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Stuti1011Sri/DSA_question/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Stuti1011Sri/DSA_question/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
@@ -64,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Stuti1011Sri/DSA_question/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -73,11 +75,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Stuti1011Sri/DSA_question/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
