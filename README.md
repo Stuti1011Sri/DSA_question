@@ -26,6 +26,7 @@
 | [0125-valid-palindrome](https://github.com/Stuti1011Sri/DSA_question/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -88,8 +89,13 @@
 | [0006-zigzag-conversion](https://github.com/Stuti1011Sri/DSA_question/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Stuti1011Sri/DSA_question/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Stuti1011Sri/DSA_question/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
