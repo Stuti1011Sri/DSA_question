@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Stuti1011Sri/DSA_question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stuti1011Sri/DSA_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
@@ -24,6 +25,7 @@
 | [0027-remove-element](https://github.com/Stuti1011Sri/DSA_question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Stuti1011Sri/DSA_question/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stuti1011Sri/DSA_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
@@ -58,6 +60,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stuti1011Sri/DSA_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
