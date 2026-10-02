@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Stuti1011Sri/DSA_question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stuti1011Sri/DSA_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
@@ -26,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Stuti1011Sri/DSA_question/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stuti1011Sri/DSA_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
@@ -41,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/Stuti1011Sri/DSA_question/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Stuti1011Sri/DSA_question/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
