@@ -19,6 +19,7 @@
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/Stuti1011Sri/DSA_question/tree/master/0867-transpose-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/Stuti1011Sri/DSA_question/tree/master/1652-defuse-the-bomb) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/Stuti1011Sri/DSA_question/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
