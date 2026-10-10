@@ -23,6 +23,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Stuti1011Sri/DSA_question/tree/master/1652-defuse-the-bomb) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
