@@ -22,6 +22,7 @@
 | [0867-transpose-matrix](https://github.com/Stuti1011Sri/DSA_question/tree/master/0867-transpose-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Stuti1011Sri/DSA_question/tree/master/1652-defuse-the-bomb) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Stuti1011Sri/DSA_question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Stuti1011Sri/DSA_question/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
