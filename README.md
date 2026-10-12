@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/Stuti1011Sri/DSA_question/tree/master/0867-transpose-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -39,6 +40,7 @@
 | [0234-palindrome-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/Stuti1011Sri/DSA_question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -78,6 +81,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stuti1011Sri/DSA_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +102,7 @@
 | [0217-contains-duplicate](https://github.com/Stuti1011Sri/DSA_question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
