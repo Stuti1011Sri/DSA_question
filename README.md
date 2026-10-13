@@ -48,6 +48,7 @@
 | [0075-sort-colors](https://github.com/Stuti1011Sri/DSA_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Stuti1011Sri/DSA_question/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Stuti1011Sri/DSA_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Stuti1011Sri/DSA_question/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Stuti1011Sri/DSA_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -116,6 +118,7 @@
 | [0006-zigzag-conversion](https://github.com/Stuti1011Sri/DSA_question/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Stuti1011Sri/DSA_question/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Stuti1011Sri/DSA_question/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
