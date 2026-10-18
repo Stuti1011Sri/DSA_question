@@ -105,6 +105,7 @@
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Stuti1011Sri/DSA_question/tree/master/0387-first-unique-character-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
@@ -119,6 +120,7 @@
 | [0067-add-binary](https://github.com/Stuti1011Sri/DSA_question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Stuti1011Sri/DSA_question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Stuti1011Sri/DSA_question/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Stuti1011Sri/DSA_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -148,9 +150,14 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Stuti1011Sri/DSA_question/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Stuti1011Sri/DSA_question/tree/master/2778-sum-of-squares-of-special-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Stuti1011Sri/DSA_question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
