@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stuti1011Sri/DSA_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Stuti1011Sri/DSA_question/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Stuti1011Sri/DSA_question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Stuti1011Sri/DSA_question/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Stuti1011Sri/DSA_question/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Stuti1011Sri/DSA_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Stuti1011Sri/DSA_question/tree/master/0290-word-pattern) |
@@ -145,6 +147,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Stuti1011Sri/DSA_question/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
