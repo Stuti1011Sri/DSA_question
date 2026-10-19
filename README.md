@@ -24,6 +24,7 @@
 | [0867-transpose-matrix](https://github.com/Stuti1011Sri/DSA_question/tree/master/0867-transpose-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Stuti1011Sri/DSA_question/tree/master/1652-defuse-the-bomb) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Stuti1011Sri/DSA_question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Stuti1011Sri/DSA_question/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Stuti1011Sri/DSA_question/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -54,6 +55,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0268-missing-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
