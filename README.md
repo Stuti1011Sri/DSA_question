@@ -22,6 +22,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/Stuti1011Sri/DSA_question/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stuti1011Sri/DSA_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Stuti1011Sri/DSA_question/tree/master/1652-defuse-the-bomb) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -44,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Stuti1011Sri/DSA_question/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Stuti1011Sri/DSA_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Stuti1011Sri/DSA_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Stuti1011Sri/DSA_question/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Stuti1011Sri/DSA_question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
