@@ -72,6 +72,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Stuti1011Sri/DSA_question/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
