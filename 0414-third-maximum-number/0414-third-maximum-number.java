@@ -5,7 +5,7 @@ class Solution {
        long first = Long.MIN_VALUE;
       long second = Long.MIN_VALUE;
        long thirdmax= Long.MIN_VALUE;
-       int max = nums[l-1];
+       long max = nums[l-1];
         boolean hasthirdmax = false;
        
        if(l>2){
@@ -29,7 +29,7 @@ class Solution {
                return (int)thirdmax;
             }
        }
-    return max ;
+      return (int)max;
     }
               
 }
